@@ -1,0 +1,225 @@
+#colls{
+    width: 155%;
+    margin-left: -79px;
+    cursor: pointer;
+}
+#coll{
+    width: 110%;
+    margin-left: -22px;
+    cursor: pointer;
+}
+#cols{
+    width: 110%;
+    margin-left: -22px;
+    cursor: pointer;
+}
+.card{
+    cursor: pointer;
+    border: thin solid white;
+    box-shadow: 0px 4px 6px 0px rgb(216, 216, 216);
+  }
+  #navy{
+    box-shadow: 0px 4px 6px 0px rgb(216, 216, 216);
+  }
+  #navimg{
+    width: 8%;
+  }
+  #not{
+    margin-right: 100px;
+  }
+
+  .card{
+    cursor: pointer;
+    border: thin solid white;
+    box-shadow: 0px 4px 6px 0px rgb(216, 216, 216);
+  }
+  #colli{
+    cursor: pointer;
+    height: 30vh;
+  }
+  #colli1{
+    cursor: pointer;
+    height: 35vh;
+  }
+  #divy{
+    width: 50%;
+    height: 25vh;
+  }
+  #divyy{
+    width: 50%;
+    height: 25vh;
+    margin-top: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+ 
+  #divy1{
+    width: 50%;
+    height: 30vh;
+  }
+  #divyy1{
+    width: 50%;
+    height: 35vh;
+    margin-top: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+#needed{
+    display: flex;
+}
+.text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#what{
+    background-color:  rgb(237, 246, 253);
+     height: 55vh;
+      z-index: -10;
+ }
+
+
+/* responsiveness */
+/* 
+@media screen and (max-width:400px){
+    #what{
+        height: 90vh;
+    }
+    #colls{
+        width: 187%;
+        margin-left: -70px;
+    }
+    #coll{
+        width: 105%;
+        margin-left: -22px;
+    }
+    #cols{
+        width: 110%;
+        margin-left: -22px;
+    }
+    #colli{
+        width: 110%;
+        margin-left: -13px;
+        
+    }
+    #colli1{
+        width: 110%;
+        margin-left: -13px;
+        height: 30vh;
+    }
+    #navy{
+        height: 10vh;
+    }
+    #divyy{
+        width: 50%;
+        height: 25vh;
+        margin-top: 0px;
+      }
+      #divyy1{
+        width: 50%;
+        height: 35vh;
+        margin-top: 0px;
+      }
+      #divy1{
+        width: 50%;
+        height: 25vh;
+      }
+      #column{
+    
+      }
+    
+ } */
+
+
+ 
+ 
+  @media screen and (max-width:420px){
+    #what{
+        height: 90vh;
+    }
+    #colls{
+        width: 187%;
+        margin-left: -70px;
+    }
+    #coll{
+        width: 105%;
+        margin-left: -22px;
+    }
+    #cols{
+        width: 110%;
+        margin-left: -22px;
+    }
+    #colli{
+        width: 110%;
+        margin-left: -13px;
+        
+    }
+    #colli1{
+        width: 110%;
+        margin-left: -13px;
+        height: 30vh;
+    }
+    #navy{
+        height: 10vh;
+    }
+    #divyy{
+        width: 50%;
+        height: 25vh;
+        margin-top: 0px;
+      }
+      #divyy1{
+        width: 50%;
+        height: 35vh;
+        margin-top: 0px;
+      }
+      #divy1{
+        width: 50%;
+        height: 25vh;
+      }
+    
+ }
+
+
+
+ @media screen and (max-width:600px){
+    #what{
+        height: 120vh;
+    }
+    #colls{
+        width: 155%;
+        margin-left: -79px;
+    }
+    #coll{
+        width: 105%;
+        margin-left:-2px;
+    }
+    #cols{
+        width: 110%;
+        margin-left: -22px;
+    }
+    #colli{
+        width: 110%;
+        margin-left: -13px;
+    }
+    #colli1{
+        width: 110%;
+        margin-left: -13px;
+        height: 30vh;
+    }
+    #navy{
+        height: 10vh;
+    }
+    #divyy{
+        width: 50%;
+        height: 25vh;
+        margin-top: 0px;
+      }
+      #divyy1{
+        width: 50%;
+        height: 35vh;
+        margin-top: 0px;
+      }
+      #divy1{
+        width: 50%;
+        height: 25vh;
+      }
+
+ }
+
+ /* end of responsiveness */
